@@ -1,0 +1,9 @@
+# requirements.txt
+
+Django>=4.2.6
+django-ninja>=1.0.0
+psycopg2-binary>=2.9.8
+requests>=2.31.0
+dj-database-url>=1.2.0
+gunicorn>=21.0.0
+
